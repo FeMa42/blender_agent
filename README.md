@@ -1,4 +1,4 @@
-# Enhanced BlenderMCP with PolyHaven Integration
+# Blender Agent
 
 This is an adpated version of [BlenderMCP](https://github.com/ahujasid/blender-mcp) that connects AI models from Hugging Face to Blender through the Model Context Protocol (MCP) and using the [smolagents](https://github.com/huggingface/smolagents) framework. 
 
